@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 100" role="img" aria-label="Biểu tượng đai Taekwondo">
+  <g fill="#111">
+    <path d="M86 35 101 43 22 90 10 71Z"/>
+    <path d="m142 39 86 32-12 19-74-38Z"/>
+    <path d="M22 22h61l18 11-57 18H22Z"/>
+    <path d="M158 22h61v29h-48l-13-8Z"/>
+    <path d="m83 22 20-15 12 7v20l-14 8-18-11Z"/>
+    <path d="m100 43 15-9v28l-15 11-15-12Z"/>
+    <path d="m119 11 27 14v30l-27 13Z"/>
+  </g>
+</svg>
